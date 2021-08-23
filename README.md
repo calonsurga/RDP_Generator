@@ -1,7 +1,7 @@
 # RDP_Generator
 RDP_Generator used to create RDP config files for students.
 
-**The project was a team effort for a DevOps.**
+**The project was a team effort for a DevOps class.**
 
 Simply build the project and you can run it off the .exe plain and simple.
 
