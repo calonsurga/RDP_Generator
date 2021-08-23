@@ -1,5 +1,7 @@
 # RDP_Generator
-RDP_Generator used to create RDP config files for students
+RDP_Generator used to create RDP config files for students.
+
+**The project was a team effort for a DevOps.**
 
 Simply build the project and you can run it off the .exe plain and simple.
 
@@ -8,3 +10,5 @@ The program has a default RDP config, but you can customize is any way you want 
 You can also add 'usernames' and 'full addresses' manually for last minute inclusions.
 
 With all of this, you can make RDP configs in bulk and save a lot of time.
+
+
