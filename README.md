@@ -11,4 +11,6 @@ You can also add 'usernames' and 'full addresses' manually for last minute inclu
 
 With all of this, you can make RDP configs in bulk and save a lot of time.
 
+**Program is in french**
+
 
